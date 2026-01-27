@@ -1,2 +1,2 @@
-loba_core/index.html
+index.html
  
